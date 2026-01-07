@@ -12,12 +12,6 @@ I enjoy working close to the hardware — from **C & Assembly (ARM/x86)** to **c
 **Western University**  
 Bachelor of Computer Science (Expected May 2028)
 
-Relevant coursework:
-- Object-Oriented Programming  
-- Data Structures & Algorithms  
-- Computer Organization & Architecture  
-- Software Tools & Systems Programming  
-
 ---
 
 ## 🧠 Technical Interests
