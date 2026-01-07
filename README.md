@@ -115,6 +115,7 @@ Relevant coursework:
 ![GitHub followers](https://img.shields.io/github/followers/ATURKIEH?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ATURKIEH?affiliations=OWNER&style=social)
 
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ATURKIEH&show_icons=true&theme=tokyonight&count_private=true)
 
 
 ---
