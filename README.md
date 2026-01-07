@@ -112,9 +112,9 @@ Relevant coursework:
 
 ## 📊 GitHub Stats
 
-![Aref's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ATURKIEH&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub followers](https://img.shields.io/github/followers/ATURKIEH?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/ATURKIEH?affiliations=OWNER&style=social)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ATURKIEH&layout=compact&theme=tokyonight)
 
 
 ---
