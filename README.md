@@ -111,10 +111,12 @@ Relevant coursework:
 ---
 
 ## 📊 GitHub Stats
-![Aref's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATURKIEH&show_icons=true&theme=tokyonight)
 
+![Aref's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ATURKIEH&show_icons=true&theme=tokyonight)
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATURKIEH&layout=compact&theme=tokyonight)
+---
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/aref-turkieh/
 - GitHub: https://github.com/ATURKIEH
