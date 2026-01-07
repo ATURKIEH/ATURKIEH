@@ -115,11 +115,6 @@ Relevant coursework:
 ![GitHub followers](https://img.shields.io/github/followers/ATURKIEH?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ATURKIEH?affiliations=OWNER&style=social)
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ATURKIEH&show_icons=true&theme=tokyonight&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATURKIEH&show_icons=true&theme=radical)
-
-
 ---
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/aref-turkieh/
