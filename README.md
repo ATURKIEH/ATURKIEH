@@ -87,7 +87,7 @@ Relevant coursework:
 - Optimized enumeration using concurrency and deduplication, reducing runtime by ~40%
 - Containerized and deployed the pipeline as an AWS Lambda function with S3 artifact storage and CloudWatch logging
 
-🔗 Repo: *(add repo link if public)*
+🔗 Repo: https://github.com/ATURKIEH/madacyber
 
 ---
 
@@ -98,7 +98,7 @@ Relevant coursework:
 - Automated formatting, severity sections, and evidence handling
 - Reduced manual reporting time by ~70% for large (30+ page) assessments
 
-🔗 Repo: *(add repo link if public)*
+🔗 Repo: private :(
 
 ---
 
