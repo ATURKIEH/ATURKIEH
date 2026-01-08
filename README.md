@@ -27,7 +27,7 @@ Bachelor of Computer Science (Expected May 2028)
 
 **Programming Languages**  
 
-[![](https://skillicons.dev/icons?i=python,java,c,bash,js,html,css)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,java,c,wasm,bash,js,html,css)](https://skillicons.dev)
 
 **Systems, Cloud & Tools**  
 
