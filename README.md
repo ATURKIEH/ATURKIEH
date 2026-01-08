@@ -31,7 +31,7 @@ Bachelor of Computer Science (Expected May 2028)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat)
 
-[![](https://skillicons.dev/icons?i=python,java,c,aws,docker,bash,js,html,css)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,java,c,bash,js,html,css)](https://skillicons.dev)
 
 **Systems, Cloud & Tools**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -39,6 +39,8 @@ Bachelor of Computer Science (Expected May 2028)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,git)](https://skillicons.dev)
 ---
 
 ## 🚀 Featured Projects
