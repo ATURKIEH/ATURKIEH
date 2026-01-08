@@ -26,19 +26,10 @@ Bachelor of Computer Science (Expected May 2028)
 ## 🛠️ Tech Stack
 
 **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat)
 
 [![](https://skillicons.dev/icons?i=python,java,c,bash,js,html,css)](https://skillicons.dev)
 
 **Systems, Cloud & Tools**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,git)](https://skillicons.dev)
 ---
