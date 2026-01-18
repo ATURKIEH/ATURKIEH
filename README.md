@@ -54,7 +54,7 @@ Bachelor of Computer Science (Expected May 2028)
 - Implemented using expression trees, stacks, and clean OOP design
 - Clear separation between UI and computation engine
 
-🔗 Repo: *(in progress)*
+🔗 Repo: https://github.com/ATURKIEH/scientific-calculator-javafx
 
 ---
 
