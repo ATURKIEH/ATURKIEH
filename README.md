@@ -4,7 +4,7 @@
 📍 Western University, Canada  
 
 I’m a Computer Science student with strong interests in **systems programming**, **backend engineering**, and **performance-aware software design**.  
-I enjoy working close to the hardware — from **C & Assembly (ARM/x86)** to **concurrent Java systems**, while also exploring **cybersecurity**, **AI**, and **financial systems (FinTech)**.
+I enjoy working close to the hardware — from **C & Assembly (ARM/x86)** to **concurrent Java systems**, while also exploring **cybersecurity**, **AI**.
 
 ---
 
