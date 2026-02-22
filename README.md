@@ -19,7 +19,6 @@ Bachelor of Computer Science (Expected May 2028)
 - Backend & concurrent systems  
 - Cybersecurity & infrastructure security  
 - AI systems fundamentals (model usage, pipelines, automation)  
-- FinTech & financial risk modeling  
 
 ---
 
