@@ -36,6 +36,18 @@ Bachelor of Computer Science (Expected May 2028)
 
 ## 🚀 Featured Projects
 
+### 🔹 SPECTER-RECON
+**Recon Automation Framework | Python**
+
+- Designed and implemented modular multi-stage reconnaissance framework integrating Nmap, FFUF, Nikto, GAU,
+GoSpider, SMB enumeration, and service detection
+- Developed CLI-driven concurrent scanning engine with structured JSON parsing and automated Markdown reporting
+- Reduced total enumeration runtime by ~80% through parallelized execution architecture
+
+🔗 Repo: https://github.com/ATURKIEH/specter-recon  
+
+---
+
 ### 🔹 Assembly Stack Visualizer
 **C → WebAssembly | ARM64 & x86_64**
 
