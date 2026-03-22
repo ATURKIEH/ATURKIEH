@@ -43,7 +43,7 @@ Bachelor of Computer Science (Expected May 2028)
 
 ---
 
-### [RepRight — AI Squat Form Analyser](https://github.com/ATURKIEH/repright)
+### [RepRight — AI Squat Form Analyser](https://github.com/ATURKIEH/repright](https://github.com/sanadnassar/RepRight)
 **Computer Vision · ML | Python, MediaPipe, Scikit-learn**
 - Random Forest classifier trained on pose estimation data — 90.74% accuracy
 - Real-time squat form feedback from video upload using joint angle feature engineering
