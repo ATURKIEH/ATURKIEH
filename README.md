@@ -72,7 +72,7 @@ Bachelor of Computer Science (Expected May 2028)
 ### [Penetration Testing Report Generator](https://github.com/ATURKIEH)
 **Python · Automation | Confidential — developed at Mada Communications**
 - Converted pentest findings into structured HTML/PDF reports, saving the team ~70% reporting time
-- 
+  
 ---
 
 ## 🛡️ Cybersecurity Experience
