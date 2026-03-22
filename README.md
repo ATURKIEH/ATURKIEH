@@ -1,10 +1,9 @@
 # Hi, I'm Aref 👋
 
-**Computer Science Student | Systems, Backend & Security-Oriented Engineering**  
+**Computer Science Student | Cybersecurity · Applied ML · Systems Engineering**  
 📍 Western University, Canada  
 
-I’m a Computer Science student with strong interests in **systems programming**, **backend engineering**, and **performance-aware software design**.  
-I enjoy working close to the hardware — from **C & Assembly (ARM/x86)** to **concurrent Java systems**, while also exploring **cybersecurity**, **AI**.
+CS student at Western University building at the intersection of offensive security and applied ML. I've done real pentesting work, built production automation tools, and trained computer vision models.
 
 ---
 
@@ -35,71 +34,45 @@ Bachelor of Computer Science (Expected May 2028)
 
 ## 🚀 Featured Projects
 
-### 🔹 SPECTER-RECON
+---
+
+### [SPECTER-RECON](https://github.com/ATURKIEH/specter-recon)
 **Recon Automation Framework | Python**
-
-- Designed and implemented modular multi-stage reconnaissance framework integrating Nmap, FFUF, Nikto, GAU,
-GoSpider, SMB enumeration, and service detection
-- Developed CLI-driven concurrent scanning engine with structured JSON parsing and automated Markdown reporting
-- Reduced total enumeration runtime by ~80% through parallelized execution architecture
-
-🔗 Repo: https://github.com/ATURKIEH/specter-recon  
+- Modular multi-stage recon integrating Nmap, FFUF, Nikto, GAU, GoSpider, and SMB enumeration
+- Parallelized execution reduced total runtime by ~80%
 
 ---
 
-### 🔹 Assembly Stack Visualizer
-**C → WebAssembly | ARM64 & x86_64**
-
-- Built a web-based stack visualization tool to demonstrate calling conventions and stack frame behavior
-- Supports both ARM64 and x86_64 architectures
-- Focused on ABI behavior, stack layout, and low-level execution flow
-
-🔗 Repo: https://github.com/ATURKIEH/stack-visualizer-core  
+### [RepRight — AI Squat Form Analyser](https://github.com/ATURKIEH/repright)
+**Computer Vision · ML | Python, MediaPipe, Scikit-learn**
+- Random Forest classifier trained on pose estimation data — 90.74% accuracy
+- Real-time squat form feedback from video upload using joint angle feature engineering
 
 ---
 
-### 🔹 Scientific Calculator
-**Java | JavaFX | Expression Trees**
-
-- Scientific calculator with a custom expression parser and evaluator
-- Implemented using expression trees, stacks, and clean OOP design
-- Clear separation between UI and computation engine
-
-🔗 Repo: https://github.com/ATURKIEH/scientific-calculator-javafx
+### [ML-Driven Thread Pool Scheduler](https://github.com/ATURKIEH/thread-pool-scheduler)
+**Java · Machine Learning | In Progress**
+- Predicts task runtime to make preemption decisions using a trained ML model
+- Work-stealing architecture benchmarked against Java's ExecutorService
 
 ---
 
-### 🔹 CPU-Aware Thread Pool Scheduler
-**Java | Concurrency | Performance**
-
-- Custom thread pool with per-worker queues and work stealing
-- Designed to reduce contention and improve cache locality
-- Benchmarked against Java’s standard `ExecutorService`
-
-🔗 Repo: *(upcoming)*
+### [Subdomain Enumerator & Recon Pipeline](https://github.com/ATURKIEH/madacyber)
+**Python · AWS · Docker**
+- Automated enumeration pipeline with deduplication, deployed on AWS Lambda/EC2
 
 ---
 
-### 🔹 Subdomain Enumeration & Recon Pipeline
-**Python | Cybersecurity | AWS**
-
-- Built a modular subdomain enumeration and reconnaissance pipeline using `ffuf`, `gau`, and `gospider`
-- Optimized enumeration using concurrency and deduplication, reducing runtime by ~40%
-- Containerized and deployed the pipeline as an AWS Lambda function with S3 artifact storage and CloudWatch logging
-
-🔗 Repo: https://github.com/ATURKIEH/madacyber
+### [Assembly Stack Visualizer](https://github.com/ATURKIEH/stack-visualizer-core)
+**C · WebAssembly · ARM64 & x86_64**
+- Browser-based stack visualization tool with execution engine compiled to WebAssembly
 
 ---
 
-### 🔹 Penetration Testing Report Generator
-**Python | Automation | Security Reporting**
-
-- Developed a Python tool that converts pentest findings (JSON/CSV) into structured HTML/PDF reports
-- Automated formatting, severity sections, and evidence handling
-- Reduced manual reporting time by ~70% for large (30+ page) assessments
-
-🔗 Repo: private :(
-
+### [Penetration Testing Report Generator](https://github.com/ATURKIEH)
+**Python · Automation | Confidential — developed at Mada Communications**
+- Converted pentest findings into structured HTML/PDF reports, saving the team ~70% reporting time
+- 
 ---
 
 ## 🛡️ Cybersecurity Experience
