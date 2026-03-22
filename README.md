@@ -15,10 +15,10 @@ Bachelor of Computer Science (Expected May 2028)
 ---
 
 ## 🧠 Technical Interests
-- Systems programming & CPU behavior  
-- Backend & concurrent systems  
-- Cybersecurity & infrastructure security  
-- AI systems fundamentals (model usage, pipelines, automation)  
+- Cybersecurity & offensive security
+- Applied ML & computer vision
+- Systems programming & CPU behavior
+- Backend & concurrent systems
 
 ---
 
