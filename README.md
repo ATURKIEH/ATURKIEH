@@ -1,6 +1,6 @@
 # Hi, I'm Aref 👋
 
-**Computer Science Student | Cybersecurity · Applied ML · Systems Engineering**  
+**Computer Science Student | Cybersecurity · ML/AI · Systems Engineering**  
 📍 Western University, Canada  
 
 CS student at Western University building at the intersection of offensive security and applied ML. I've done real pentesting work, built production automation tools, and trained computer vision models.
