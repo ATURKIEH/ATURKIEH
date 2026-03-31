@@ -50,10 +50,10 @@ Bachelor of Computer Science (Expected May 2028)
 
 ---
 
-### [ML-Driven Thread Pool Scheduler](https://github.com/ATURKIEH/cpuMultiThreaderScheduler)
-**Java · Machine Learning | In Progress**
-- Predicts task runtime to make preemption decisions using a trained ML model
-- Work-stealing architecture benchmarked against Java's ExecutorService
+### [AresScheduler — Adaptive Thread Pool Scheduler](https://github.com/ATURKIEH/cpuMultiThreaderScheduler)
+**Java · Apache Maven**
+- Built custom work-stealing thread pool with FIFO, priority, and work-stealing scheduling policies in Java
+- Implemented adaptive policy recommendation engine that profiles live runtime metrics — queue depth, worker utilization, steal rates
 
 ---
 
