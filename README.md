@@ -50,7 +50,7 @@ Bachelor of Computer Science (Expected May 2028)
 
 ---
 
-### [ML-Driven Thread Pool Scheduler](https://github.com/ATURKIEH/thread-pool-scheduler)
+### [ML-Driven Thread Pool Scheduler](https://github.com/ATURKIEH/cpuMultiThreaderScheduler)
 **Java · Machine Learning | In Progress**
 - Predicts task runtime to make preemption decisions using a trained ML model
 - Work-stealing architecture benchmarked against Java's ExecutorService
