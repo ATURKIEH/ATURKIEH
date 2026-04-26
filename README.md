@@ -93,3 +93,5 @@ Bachelor of Computer Science (Expected May 2028)
 - LinkedIn: https://www.linkedin.com/in/aref-turkieh/
 - GitHub: https://github.com/ATURKIEH
 - Email: turkieharef@gmail.com
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
