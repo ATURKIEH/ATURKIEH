@@ -94,4 +94,4 @@ Bachelor of Computer Science (Expected May 2028)
 - GitHub: https://github.com/ATURKIEH
 - Email: turkieharef@gmail.com
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=ATURKIEH&color=blue)
