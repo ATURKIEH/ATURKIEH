@@ -15,6 +15,14 @@ Computer Science student at Western University, interested in AI/ML engineering 
 **Cloud & DevOps:** AWS, Azure, Docker, GitHub Actions
  
 **Databases:** PostgreSQL, SQLite, Pinecone
+
+## Experience
+ 
+**OCS, AI & Software Engineer Intern (Dubai, UAE)** - Built a full-stack Cash Disbursement Voucher approval system deployed on Azure, now in company-wide pilot across 5 departments.
+ 
+**FlyRank, Backend AI Engineer Intern (Remote, Part-time)** - Built an LLM usage metering and billing backend with Stripe integration and exactly-once usage recording.
+ 
+**Mada Communications International, Penetration Testing Intern (OnSite)** - Enumerated hidden endpoints and built automated vulnerability triage tooling, uncovering 12 new attack surfaces.
  
 ## Featured Projects
  
