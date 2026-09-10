@@ -1,88 +1,52 @@
-# Hi, I'm Aref 👋
-
-**Computer Science Student | Cybersecurity · ML/AI · Systems Engineering**  
-📍 Western University, Canada  
-
-CS student at Western University building at the intersection of offensive security and applied ML. I've done real pentesting work, built production automation tools, and trained computer vision models.
-
----
-
-## 🎓 Education
-**Western University**  
-Bachelor of Computer Science (Expected May 2028)
-
----
-
-## 🧠 Technical Interests
-- Cybersecurity & offensive security
-- Applied ML & computer vision
-- Systems programming & CPU behavior
-- Backend & concurrent systems
-
----
-
-## 🛠️ Tech Stack
-
-**Programming Languages**  
-
-[![](https://skillicons.dev/icons?i=python,java,c,wasm,bash,html,css)](https://skillicons.dev)
-
-**Systems, Cloud & Tools**  
-
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,git)](https://skillicons.dev)
----
-
-## 🚀 Featured Projects
-
----
-
-### [SPECTER-RECON](https://github.com/ATURKIEH/specter-recon)
-**Recon Automation Framework | Python**
-- Modular multi-stage recon integrating Nmap, FFUF, Nikto, GAU, GoSpider, and SMB enumeration
-- Parallelized execution reduced total runtime by ~80%
-
----
-
-### [RepRight — AI Squat Form Analyser](https://github.com/sanadnassar/RepRight)
-**Computer Vision · ML | Python, MediaPipe, Scikit-learn**
-- Random Forest classifier trained on pose estimation data — 90.74% accuracy
-- Real-time squat form feedback from video upload using joint angle feature engineering
-
----
-
-### [AresScheduler — Adaptive Thread Pool Scheduler](https://github.com/ATURKIEH/cpuMultiThreaderScheduler)
-**Java · Apache Maven**
-- Built custom work-stealing thread pool with FIFO, priority, and work-stealing scheduling policies in Java
-- Implemented adaptive policy recommendation engine that profiles live runtime metrics — queue depth, worker utilization, steal rates
-
----
-
-### [Subdomain Enumerator & Recon Pipeline](https://github.com/ATURKIEH/madacyber)
-**Python · AWS · Docker**
-- Automated enumeration pipeline with deduplication, deployed on AWS Lambda/EC2
-
----
-
-### [Assembly Stack Visualizer](https://github.com/ATURKIEH/stack-visualizer-core)
-**C · WebAssembly · ARM64 & x86_64**
-- Browser-based stack visualization tool with execution engine compiled to WebAssembly
-
----
-
-### [Penetration Testing Report Generator](https://github.com/ATURKIEH)
-**Python · Automation | Confidential — developed at Mada Communications**
-- Converted pentest findings into structured HTML/PDF reports, saving the team ~70% reporting time
+# Aref Turkieh
+ 
+Computer Science student at Western University, interested in AI/ML engineering and software engineering. I like building real, working systems: RAG platforms, reinforcement learning agents, backend infrastructure, not just models in a notebook.
+ 
+## Tech Stack
+ 
+**Languages:** Python, Java, C, JavaScript, TypeScript, Bash
+ 
+**ML/AI:** TensorFlow, PyTorch, LangChain, LangGraph, LlamaIndex, Scikit-learn, Pandas, NumPy
+ 
+**Backend:** FastAPI, PostgreSQL, SQLAlchemy, Redis, JWT Auth, WebSockets
+ 
+**Frontend:** React, TypeScript, Tailwind
+ 
+**Cloud & DevOps:** AWS, Azure, Docker, GitHub Actions
+ 
+**Databases:** PostgreSQL, SQLite, Pinecone
+ 
+## Featured Projects
+ 
+### OCS - Cash Disbursement Voucher Approval System
+Full-stack approval system (FastAPI, PostgreSQL, React/TypeScript) deployed on Azure, replacing a manual paper-based process across a company-wide pilot.
+- Built a dynamic multi-level approval engine with automated backup and escalation handling
+- Integrated Azure OpenAI and Document Intelligence for receipt processing, cutting per-receipt time 8x
+### FlyRank - LLM Usage Metering & Billing Backend
+Backend service (FastAPI, PostgreSQL, Docker) for metering AI/API usage and enforcing subscription quotas.
+- Designed an idempotent metering pipeline guaranteeing exactly-once usage recording under retries via a database-level unique constraint
+- Integrated Stripe for subscription billing with webhook signature verification and event deduplication
+### Document Q&A - Multi-User RAG Platform
+RAG platform (FastAPI, LangChain, Pinecone, PostgreSQL, React/TypeScript) supporting multi-format document ingestion.
+- JWT-authenticated retrieval scope enforcing per-user document isolation via Pinecone metadata filtering
+- Many-to-many chat-to-document schema enabling multi-threaded conversations across one or several documents
+### AresScheduler - Adaptive Thread Pool Scheduler
+Custom Java thread pool with FIFO, priority queue, and work-stealing scheduling policies.
+- Work-stealing reduced latency by ~91% versus FIFO under high load
+- Adaptive policy engine profiling live runtime metrics to recommend scheduling strategy
+### StockSignal AI - Stock Movement Predictor
+Two-model pipeline (PyTorch LSTM + FinBERT sentiment) predicting 5-day stock direction across 14 equities.
+- Achieved 62% directional accuracy on held-out test data
+- Deployed with FastAPI, Streamlit, Docker, and GitHub Actions CI/CD
+### SOC Analyst AI - Anomaly Detection & Incident Reporting
+Security tool combining an autoencoder for anomaly detection with a Random Forest classifier and LangChain-generated incident reports.
+- 83% weighted F1 across attack types on the NSL-KDD dataset
+- Deployed with FastAPI, SQLite, Streamlit, and Docker
+### Algorithmic Trading Agent - Reinforcement Learning
+Double DQN agent trading a 5-stock portfolio, backtested against a buy-and-hold benchmark with live paper trading.
+- 418% backtest return vs. 98% for buy-and-hold, with an honestly documented drawdown tradeoff
+- Debugged real RL failure modes, including Q-value overestimation and policy collapse
   
----
-
-## 🛡️ Cybersecurity Experience
-- Performed web application reconnaissance using `ffuf`, `gau`, `gospider`, and `Nmap`
-- Assisted in identifying and exploiting vulnerabilities across web apps and infrastructure
-- Developed Python automation scripts for vulnerability detection and reporting
-- Deployed security tooling using AWS Lambda, S3, and CloudWatch
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub followers](https://img.shields.io/github/followers/ATURKIEH?label=Follow&style=social)
