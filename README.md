@@ -4,7 +4,7 @@ Computer Science student at Western University, interested in AI/ML engineering 
  
 ## Tech Stack
  
-**Languages:** Python, Java, C, JavaScript, TypeScript, Bash
+**Languages:** Python, Java, C++, JavaScript, TypeScript, Bash
  
 **ML/AI:** TensorFlow, PyTorch, LangChain, LangGraph, LlamaIndex, Scikit-learn, Pandas, NumPy
  
